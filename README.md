@@ -9,7 +9,7 @@
 <h4> - display list of all manufacturers </h4>
 <h4> - display list of all cars  </h4>
 <h4> - display list of all driver`s cars </h4>
-<h4> - display list of all drivers  </h4>
+<h4> - display list of all drivers  </h4><br>
 
 ## 🤖 Technologies:
 <h4> - JDK 11</h4>
@@ -20,7 +20,7 @@
 <h4> - CSS</h4>
 <h4> - MAVEN 3.1.1</h4>
 <h4> - JDBC</h4>
-<h4> - Tomcat 9.0.50 </h4>
+<h4> - Tomcat 9.0.50 </h4><br>
 
 ## 💡 Structure:
 Project has common directory layout 
@@ -28,7 +28,7 @@ Project has common directory layout
 #### src/main/resources         --  Application resources
 #### src/main/webapp 	          --  Web application sources, JSP
 #### src/java/taxi/             --  Application (controller, dao, service)
-#### pom.xml                    --  for managing Maven
+#### pom.xml                    --  for managing Maven <br>
 
 
 ## ⚙️ Launching: 
@@ -37,4 +37,4 @@ Project has common directory layout
 <h4> - Use file init_db.sql for creating schema and tables </h4>
 <h4> - Configurate connection to your DB Use class <b>"ConnectionUtil"</b>. You should to change 
 URL, USERNAME, PASSWORD, JDBC_DRIVER for your own properties. </h4>
-<h4> - Use Tomcat for starting the progect</h4>
+<h4> - Use Tomcat for starting the progect</h4><br>
