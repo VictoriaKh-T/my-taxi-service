@@ -23,8 +23,12 @@
 <h4> - Tomcat 9.0.50 </h4>
 
 ## 💡 Structure:
-![img.png](img.png)
+Project has common directory layout 
 
+#### src/main/resources         --  Application resources
+#### src/main/webapp 	          --  Web application sources, JSP
+#### src/java/taxi/             --  Application (controller, dao, service)
+#### pom.xml                    --  for managing Maven
 
 
 ## ⚙️ Launching: 
