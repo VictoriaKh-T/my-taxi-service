@@ -1,7 +1,7 @@
 ![taxi.jpg](src%2Fmain%2Fresources%2Ftaxi.jpg)
 # Welcome to taxi service
-##### Web application for simle operations on data. 
-## Features:
+##### Web application for simle operations on data. It is supports registration, authentication and CRUD operations. 
+## 🎯 Features
 <h4> - registration like a driver</h4>
 <h4> - create/update/remove a manufacturer </h4>
 <h4> - create/update/remove a car </h4>
@@ -11,8 +11,26 @@
 <h4> - display list of all driver`s cars </h4>
 <h4> - display list of all drivers  </h4>
 
-## Instruction:
-After launching the application you need authenticate 
-like a Driver. Then you can add cars, show all drivers, 
-show all cars and add or delete all information about car 
-what you need. 
+## 🤖 Technologies:
+<h4> - JDK 11</h4>
+<h4> - MySQL 8.0.24</h4>
+<h4> - JAVA Servlet API 4.0.1</h4>
+<h4> - JSP</h4>
+<h4> - HTML</h4>
+<h4> - CSS</h4>
+<h4> - MAVEN 3.1.1</h4>
+<h4> - JDBC</h4>
+<h4> - Tomcat 9.0.50 </h4>
+
+## 💡 Structure:
+![img.png](img.png)
+
+
+
+## ⚙️ Launching: 
+<h4> - Clone progect from GitHub</h4>
+<h4> - You need to install MySQL</h4>
+<h4> - Use file init_db.sql for creating schema and tables </h4>
+<h4> - Configurate connection to your DB Use class <b>"ConnectionUtil"</b>. You should to change 
+URL, USERNAME, PASSWORD, JDBC_DRIVER for your own properties. </h4>
+<h4> - Use Tomcat for starting the progect</h4>
