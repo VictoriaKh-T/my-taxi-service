@@ -1,6 +1,6 @@
 ![taxi.jpg](src%2Fmain%2Fresources%2Ftaxi.jpg)
 # Welcome to taxi service
-##### Web application for simle operations on data. It is supports registration, authentication and CRUD operations. 
+##### Web application for simple operations on data. It supports registration, authentication and CRUD operations. 
 ## 🎯 Features
 <h4> - registration like a driver</h4>
 <h4> - create/update/remove a manufacturer </h4>
